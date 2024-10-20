@@ -1,5 +1,7 @@
 # assignment-template
 SD5913 - Assignment template
+Student name: Cai Qiqing
+Student ID: 24120309G
 
 ## Concentration and Reaction Game
 
