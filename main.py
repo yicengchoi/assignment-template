@@ -34,7 +34,7 @@ time_limit = 60  # limited 60s for each round
 speech_result = None  # 存储语音识别结果
 stop_speech_thread = False  # 控制语音识别
 game_over = False  # 标记结束
-word_scroll_speed = 9  ### scrolling speed
+word_scroll_speed = 9  # Adjust this number for faster or slower scrolling
 
 # button
 def button_animation(button, color, text, scale):
